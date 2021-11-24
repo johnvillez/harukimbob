@@ -1,0 +1,20 @@
+$header-font: "Pacifico", cursive;
+
+header {
+    background-color: black !important;
+}
+
+header {
+
+    .first {
+        background-color: #2f3030;
+    }
+    h1 {
+        font-family: $header-font;
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+}
